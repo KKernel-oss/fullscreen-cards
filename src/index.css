@@ -60,3 +60,23 @@ body {
     display: none;
   }
 }
+
+.panel.who {
+  background-color: #fdd000;
+}
+
+.panel.git {
+  background-color: #5d6d7c;
+}
+
+.panel.contact {
+  background-color: #e3a765;
+}
+
+.panel.exp {
+  background-color: #f2efe2;
+}
+
+.panel.skills {
+  background-color: #000000;
+}
